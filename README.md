@@ -1,7 +1,7 @@
 ## 🚀 React Trippy Tour — Tour & Travel Website Template
 
-### 🔍 Overview
-![Website Preview](./assets/home.png)
+
+![Website Preview](./public/home.png)
 
 
 
