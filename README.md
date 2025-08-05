@@ -1,5 +1,10 @@
 ## 🚀 React Trippy Tour — Tour & Travel Website Template
 
+### 🔍 Overview
+![Website Preview](./assets/home.png)
+
+
+
 **A responsive, multi-page React.js template for tour and travel websites**, originally based on the Tech2etc React-Trippy project.
 
 ### 🔍 Overview
